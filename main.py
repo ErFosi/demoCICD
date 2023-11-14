@@ -1,1 +1,1 @@
-print("Hola petardos")
+priwhiwehiwehjiwint("Hola petardos")
